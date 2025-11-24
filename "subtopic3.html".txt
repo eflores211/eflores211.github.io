@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ethical and Regulatory Challenges of AI in Healthcare</title>
+</head>
+<body>
+  <h1>Ethical and Regulatory Challenges of AI in Healthcare</h1>
+
+  <h2>Source 1</h2>
+  <table border="1">
+    <tr><td><strong>URL:</strong></td><td><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12076083/">PMC</a></td></tr>
+    <tr><td><strong>Author:</strong></td><td>PMC article authors</td></tr>
+    <tr><td><strong>Abstract:</strong></td><td>This article outlines legal and ethical concerns in AI healthcare, focusing on privacy, security, and compliance. It emphasizes the need for systems to follow HIPAA and GDPR, and for institutions to enforce strong oversight to prevent misuse.</td></tr>
+  </table>
+
+  <h2>Source 2</h2>
+  <table border="1">
+    <tr><td><strong>URL:</strong></td><td><a href="https://www.ijlra.com/details/navigating-legal-and-ethical-challenges-in-ai-driven-healthcare-ensuring-accountability-transparency-and-patient-protection-by-janvi-ashika-g">IJLRA</a></td></tr>
+    <tr><td><strong>Author:</strong></td><td>Janvi Ashika G.</td></tr>
+    <tr><td><strong>Abstract:</strong></td><td>This article discusses the importance of accountability and transparency in AI medical decisions. It warns about “black box” models and calls for explainable AI and ethical frameworks to protect patients and ensure safety.</td></tr>
+  </table>
+</body>
+</html>

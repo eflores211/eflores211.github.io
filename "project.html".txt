@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Webography Project – Elisa Flores</title>
+</head>
+<body>
+  <h1>Elisa Flores</h1>
+  <p>CSIT 100 – Webography Project<br>24 November 2025</p>
+
+  <h2>Research Title: AI in Healthcare and Early Cancer Detection</h2>
+
+  <ul>
+    <li><a href="subtopic1.html">AI in Personalized Medicine</a></li>
+    <li><a href="subtopic2.html">Predictive Analytics and Risk Modeling in Healthcare</a></li>
+    <li><a href="subtopic3.html">Ethical and Regulatory Challenges of AI in Healthcare</a></li>
+  </ul>
+
+  <p><a href="elisa webography.docx">Download Paper</a></p>
+  <p><a href="elisa.pptx">Download Presentation</a></p>
+</body>
+</html>

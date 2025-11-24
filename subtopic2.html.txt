@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Predictive Analytics and Risk Modeling in Healthcare</title>
+</head>
+<body>
+  <h1>Predictive Analytics and Risk Modeling in Healthcare</h1>
+
+  <h2>Source 1</h2>
+  <table border="1">
+    <tr><td><strong>URL:</strong></td><td><a href="https://arxiv.org/abs/2412.07050">arXiv</a></td></tr>
+    <tr><td><strong>Author:</strong></td><td>Anuyah, Singh, & Nyavor</td></tr>
+    <tr><td><strong>Abstract:</strong></td><td>This research discusses how deep learning can improve clinical trials by predicting patient recruitment, adverse events, and outcomes. AI-based stratification using demographic and genomic data can make trials more efficient and personalized.</td></tr>
+  </table>
+
+  <h2>Source 2</h2>
+  <table border="1">
+    <tr><td><strong>URL:</strong></td><td><a href="https://pubmed.ncbi.nlm.nih.gov/40679640/">PubMed</a></td></tr>
+    <tr><td><strong>Author:</strong></td><td>Meta-analysis authors</td></tr>
+    <tr><td><strong>Abstract:</strong></td><td>This meta-analysis shows that AI-driven diagnostics improve lab accuracy and enable earlier disease detection. Predictive models personalize diagnostics and support proactive, data-driven healthcare decisions.</td></tr>
+  </table>
+</body>
+</html>

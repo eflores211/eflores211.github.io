@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>AI in Personalized Medicine</title>
+</head>
+<body>
+  <h1>AI in Personalized Medicine</h1>
+
+  <h2>Source 1</h2>
+  <table border="1">
+    <tr><td><strong>URL:</strong></td><td><a href="https://pubmed.ncbi.nlm.nih.gov/40376348/">PubMed</a></td></tr>
+    <tr><td><strong>Author:</strong></td><td>Mishra et al.</td></tr>
+    <tr><td><strong>Abstract:</strong></td><td>This systematic review explores how generative AI models like GANs and VAEs are used in personalized medicine. These models help predict drug responses, identify biomarkers, and group patients by risk. However, challenges remain in interpretability, validation, and bias, which must be addressed before clinical use.</td></tr>
+  </table>
+
+  <h2>Source 2</h2>
+  <table border="1">
+    <tr><td><strong>URL:</strong></td><td><a href="https://link.springer.com/article/10.1007/s10462-024-10768-5">SpringerLink</a></td></tr>
+    <tr><td><strong>Author:</strong></td><td>Artificial Intelligence Review (2024)</td></tr>
+    <tr><td><strong>Abstract:</strong></td><td>This meta-analysis highlights how generative AI can create synthetic patient data, integrate multi-omics information, and support personalized treatment plans. While promising, the paper emphasizes ethical concerns around data bias and the need for transparent AI decision-making.</td></tr>
+  </table>
+</body>
+</html>
